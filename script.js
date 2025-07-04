@@ -6,7 +6,7 @@
 
   // Your web app's Firebase configuration
   const firebaseConfig = {
-    apiKey: "AIzaSyCyv8zUfDKfrcXvx5dzxW8B_NyWaDy8c",
+    apiKey: "Your_api_key",
     authDomain: "kitty-basket.firebaseapp.com",
     databaseURL: "https://kitty-basket-default-rtdb.asia-southeast1.firebasedatabase.app",
     projectId: "kitty-basket",
