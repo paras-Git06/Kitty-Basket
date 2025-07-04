@@ -4,6 +4,9 @@ Kitty-Basket is a simple, user-friendly app designed to help you manage your sho
 ### 🏠 Home Screen
 ![Home Screen](https://github.com/paras-Git06/Kitty-Basket/blob/be8a6753bbee0f69b085c3b2947ded59d44e8061/ss.png)
 
+## 🖼️ Screenshots
+![Home Screen]()
+
 ## 🚀 Features
 - 📝 Add shopping items
 - ✅ Mark items as bought
