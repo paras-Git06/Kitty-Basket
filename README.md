@@ -9,7 +9,7 @@ Kitty-Basket is a simple, user-friendly app designed to help you manage your sho
 - ✅ Mark items as bought
 - 🗑️ Delete items from the list
 - 📦 Simple and clean UI 
-## Tech Stack
+## 📦 Tech Stack
 - Frontend: HTML/CSS and JavaScript
 - Backend: Firebase
 - Platform: Web / Android / IOS
